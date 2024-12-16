@@ -17,7 +17,7 @@
    - Connexion Internet pour télécharger et exécuter le launcher.
 
 2. **Téléchargement :**
-   - Clonez le dépôt GitHub ou téléchargez le package d'installation directement depuis le siteweb > [moonlife_setup.exe](https://moonlife-rp.fr/download/moonlife_setup.exe) .
+   - Clonez le dépôt GitHub ou téléchargez le package d'installation directement depuis le siteweb > [moonlife_setup.exe](https://moonlife-rp.fr/moonlife_setup.exe) .
 
 3. **Installation :**
    - Exécutez l’installeur et tout est bon !.
